@@ -11,6 +11,7 @@
     "serve": "serve dist -p 3000"
   },
   "dependencies": {
+    "bulma": "^0.7.2",
     "chokidar": "2.0.3",
     "htmr": "0.6.3",
     "jdown": "^0.3.0",

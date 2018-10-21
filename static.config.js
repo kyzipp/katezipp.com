@@ -9,35 +9,14 @@ export default {
     title: 'React Static',
   }),
   getRoutes: async () => {
-    const { posts, home, about } = await jdown('content')
+    const { about, vitae, research, publications, teaching } = await jdown('content')
     return [
       {
         path: '/',
         component: 'src/containers/Home',
-        getData: () => ({
-          ...home,
-        }),
-      },
-      {
-        path: '/about',
-        component: 'src/containers/About',
-        getData: () => ({
-          about,
-        }),
-      },
-      {
-        path: '/blog',
-        component: 'src/containers/Blog',
-        getData: () => ({
-          posts,
-        }),
-        children: posts.map(post => ({
-          path: `/post/${post.slug}`,
-          component: 'src/containers/Post',
-          getData: () => ({
-            post,
-          }),
-        })),
+        getData: () => (
+         { about, vitae, research, publications, teaching}
+        ),
       },
       {
         is404: true,
