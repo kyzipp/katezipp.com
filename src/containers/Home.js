@@ -12,12 +12,12 @@ export default withRouteData(({ about, vitae, research, teaching }) => (
           <figure className="image is-256x256">
             <img className="is-rounded" src={kate} />
           </figure>
-          <p>Katherine Y. Zipp</p>
-          <p>Penn State University </p>
-          <p><a target="_blank" href="https://aese.psu.edu/directory/kyz1" title="Penn State">AESE</a> and <a target="_blank" href="http://www.iee.psu.edu" title="Penn State IEE">IEE</a></p>
-          <p>112-F Armsby</p>
-          <p>University Park, PA 16802</p>
-          <p>kyz1@psu.edu</p>
+          <p>Katherine Y. Zipp<br />
+          Penn State University <br />
+          <a target="_blank" href="https://aese.psu.edu/directory/kyz1" title="Penn State">AESE</a> and <a target="_blank" href="http://www.iee.psu.edu" title="Penn State IEE">IEE</a><br />
+          112-F Armsby<br />
+          University Park, PA 16802<br />
+          kyz1@psu.edu</p>
         </div>
         <div className="column">
           <h1>Katherine Y. Zipp</h1>
