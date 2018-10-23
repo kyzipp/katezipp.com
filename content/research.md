@@ -37,16 +37,16 @@ Zipp, K.Y. "The Net Effects of Open-Space Conservation on Ecosystem Services" (*
 
 ### Awarded
 
-Co-PI "Advancing High Priority, Objectives, Strategies and Actions Identified in the Pennsylvania Aquatic Invasive Species Management Plan" U.S. Fish and Wildlife Service. $797,949. [Press release] (https://news.psu.edu/story/529390/2018/07/27/impact/pennsylvania-sea-grant-receives-800000-combat-invasive-species)
+Co-PI "Advancing High Priority, Objectives, Strategies and Actions Identified in the Pennsylvania Aquatic Invasive Species Management Plan" U.S. Fish and Wildlife Service. $797,949. [Press release] (https://news.psu.edu/story/529390/2018/07/27/impact/pennsylvania-sea-grant-receives-800000-combat-invasive-species).
 
-Co-PI "Flexible Buffer Systems: Enhancing Ecosystem Services and Expanding Agricultural Options in Riparian Areas." USDA National Institute of Food and Agriculture. 01/01/2017 - 12/31/2019 $499,500 [Press release](https://news.psu.edu/story/475297/2017/07/20/research/researchers-receive-usda-grant-study-new-riparian-buffer-strategy)
+Co-PI "Flexible Buffer Systems: Enhancing Ecosystem Services and Expanding Agricultural Options in Riparian Areas." USDA National Institute of Food and Agriculture. 01/01/2017 - 12/31/2019 $499,500. [Press release](https://news.psu.edu/story/475297/2017/07/20/research/researchers-receive-usda-grant-study-new-riparian-buffer-strategy).
 
-PI "Analysis of Ecosystem service valuation and policy design of water quality improvements associated with perennial grasses and cover crops.” USDT Federal Aviation Administration Center of Excellence for Alternative Jet Fuels, ASCENT. 8/1/2016 - 7/31/2017 $200,000
+PI "Analysis of Ecosystem service valuation and policy design of water quality improvements associated with perennial grasses and cover crops.” USDT Federal Aviation Administration Center of Excellence for Alternative Jet Fuels, ASCENT. 8/1/2016 - 7/31/2017 $200,000.
 
-Co-PI "Firescapes in the mid-Atlantic: Mismatches between social perceptions and prescribed fire use." USDI Joint Fire Sciences Program. 08/01/2016 - 07/31/2019 $326,646. [Project website](http://cld.psu.edu/research/). [Funders website](https://www.firescience.gov/JFSP_advanced_search_results_detail.cfm?jdbid=%24%26J3%3AW0%20%20%0A)
+Co-PI "Firescapes in the mid-Atlantic: Mismatches between social perceptions and prescribed fire use." USDI Joint Fire Sciences Program. 08/01/2016 - 07/31/2019 $326,646. [Project website](http://cld.psu.edu/research/). [Funders website](https://www.firescience.gov/JFSP_advanced_search_results_detail.cfm?jdbid=%24%26J3%3AW0%20%20%0A).
 
-Co-PI "Flood Mitigation for Pennsylvania's Rural Communities: Community-Scale Impact of Federal Policies." Center for Rural Pennsylvania. 1/20/2016 - 1/20/2017 $50,000
+Co-PI "Flood Mitigation for Pennsylvania's Rural Communities: Community-Scale Impact of Federal Policies." Center for Rural Pennsylvania. 1/20/2016 - 1/20/2017 $50,000. [Final Report](http://www.rural.palegislature.us/documents/reports/Flood-Mitigation-2017.pdf). [Press Release](https://news.psu.edu/story/481315/2017/09/07/research/report-addresses-flooding-and-flood-insurance-impacts-rural)
 
-PI "Analysis of Ecosystem service valuation and policy design of water quality improvements associated with perennial grasses and cover crops.” USDT Federal Aviation Administration Center of Excellence for Alternative Jet Fuels, ASCENT. 8/1/2015 - 7/31/2016  $80,000
+PI "Analysis of Ecosystem service valuation and policy design of water quality improvements associated with perennial grasses and cover crops.” USDT Federal Aviation Administration Center of Excellence for Alternative Jet Fuels, ASCENT. 8/1/2015 - 7/31/2016 $80,000.
 
-Co-PI "Pennsylvania Natural Resources Leadership Program Pilot Project” AESE Strategic Initiatives Funding. 1/1/2015 - 6/30/2015 $5,850
+Co-PI "Pennsylvania Natural Resources Leadership Program Pilot Project” AESE Strategic Initiatives Funding. 1/1/2015 - 6/30/2015 $5,850.
