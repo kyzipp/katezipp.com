@@ -6,9 +6,9 @@ import Routes from 'react-static-routes'
 import '../node_modules/bulma/css/bulma.css'
 
 const App = () => (
-  <Router>
+  <Router >
     <div>
-      <nav className="navbar" role="navigation" aria-label="main navigation">
+      <nav className="navbar is-fixed-top" role="navigation" aria-label="main navigation">
         <div className="navbar-brand">
           <a className="navbar-item" href="https://katezipp.com">
             <figure className="image is-24x24">

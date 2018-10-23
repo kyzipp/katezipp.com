@@ -1,10 +1,12 @@
 import { reloadRoutes } from 'react-static/node'
+import React, { Component } from 'react'
 import jdown from 'jdown'
 import chokidar from 'chokidar'
 
 chokidar.watch('content').on('all', () => reloadRoutes())
 
 export default {
+  siteRoot: 'http://katezipp.com',
   getSiteData: () => ({
     title: 'React Static',
   }),
@@ -24,4 +26,14 @@ export default {
       },
     ]
   },
+  Document: ({ Html, Head, Body, children, siteData, renderMeta }) => (
+    <Html lang="en-US">
+      <Head>
+        <meta charSet="UTF-8" />
+        <title>Dr. Katherine Y. Zipp</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Head>
+      <Body className="has-navbar-fixed-top">{children}</Body>
+    </Html>
+  )
 }
