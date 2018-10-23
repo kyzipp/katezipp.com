@@ -19,4 +19,4 @@ jobs: # a collection of steps
           command: yarn build
       - run:
           name: publish
-          command: s3 sync dist s3://katezipp.com --delete
+          command: aws s3 sync dist s3://katezipp.com --delete
