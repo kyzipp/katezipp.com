@@ -1,2 +1,3 @@
 # Publications
-I write stuff
+- Pub 1 
+- Pub 2

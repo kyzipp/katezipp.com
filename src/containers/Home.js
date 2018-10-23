@@ -6,12 +6,14 @@ import kate from './kate.png';
 export default withRouteData(({ about, vitae, research, publications, teaching }) => (
   < div >
     <section id="about" className="section">
-      <div className="level">
-        <figure class="image is-128x128 level-left">
-          <img class="is-rounded" src={kate} />
-        </figure>
-        <h1>Katherine Y. Zipp</h1>
-        <div className="level-right">
+      <div className="columns">
+        <div className="column is-one-fifth">
+          <figure class="image is-256x256">
+            <img class="is-rounded" src={kate} />
+          </figure>
+        </div>
+        <div className="column">
+          <h1>Katherine Y. Zipp</h1>
           {convert(about.contents)}
         </div>
       </div>
