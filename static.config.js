@@ -11,13 +11,13 @@ export default {
     title: 'React Static',
   }),
   getRoutes: async () => {
-    const { about, vitae, research, publications, teaching } = await jdown('content')
+    const { about, vitae, research, teaching } = await jdown('content')
     return [
       {
         path: '/',
         component: 'src/containers/Home',
         getData: () => (
-         { about, vitae, research, publications, teaching}
+         { about, vitae, research, teaching}
         ),
       },
       {

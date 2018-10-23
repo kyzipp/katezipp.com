@@ -10,7 +10,7 @@ const App = () => (
     <div>
       <nav className="navbar is-fixed-top" role="navigation" aria-label="main navigation">
         <div className="navbar-brand">
-          <a className="navbar-item" href="https://katezipp.com">
+          <a className="navbar-item" href="http://katezipp.com">
             <figure className="image is-24x24">
               <img className="is-rounded" src={kate} />
             </figure>
@@ -26,7 +26,6 @@ const App = () => (
             <Link className="navbar-item" to="#about">About</Link>
             <Link className="navbar-item" to="#vitae">Vitae</Link>
             <Link className="navbar-item" to="#research">Research</Link>
-            <Link className="navbar-item" to="#pubs">Publications</Link>
             <Link className="navbar-item" to="#teaching">Teaching</Link>
           </div>
         </div>
