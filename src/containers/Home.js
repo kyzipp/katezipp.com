@@ -8,8 +8,8 @@ export default withRouteData(({ about, vitae, research, publications, teaching }
     <section id="about" className="section">
       <div className="columns">
         <div className="column is-one-fifth">
-          <figure class="image is-256x256">
-            <img class="is-rounded" src={kate} />
+          <figure className="image is-256x256">
+            <img className="is-rounded" src={kate} />
           </figure>
         </div>
         <div className="column">

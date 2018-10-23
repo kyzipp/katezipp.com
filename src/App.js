@@ -10,9 +10,9 @@ const App = () => (
     <div>
       <nav className="navbar" role="navigation" aria-label="main navigation">
         <div className="navbar-brand">
-          <a class="navbar-item" href="https://katezipp.com">
-            <figure class="image is-24x24">
-              <img class="is-rounded" src={kate} />
+          <a className="navbar-item" href="https://katezipp.com">
+            <figure className="image is-24x24">
+              <img className="is-rounded" src={kate} />
             </figure>
           </a>
           <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar">
