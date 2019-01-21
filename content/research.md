@@ -17,17 +17,22 @@ Shortle, J., D. Abler, Z. Kaufman, and K.Y. Zipp (2016) "Simple vs. Complex: Imp
 
 ### Under Review
 
-Colby, S. and K.Y. Zipp  "Floodplain Housing Stock Dynamics" (*Under Review*).
+Jiang, W., K.Y. Zipp, M. Langholtz, and M. Jacobson "Modeling Spatial Dependence and Hot Spots in Landowners’ Willingness to Supply Bioenergy Crops in Northeast of the United States." (*Revise and Resubmit*).
 
-Jiang, W., K.Y. Zipp, M. Langholtz, and M. Jacobson "Modeling Spatial Dependence and Hot Spots in Landowners’ Willingness to Supply Bioenergy Crops in Northeast of the United States." (*Under Review*).
+Li, X. and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" (*Revise and Resubmit*).
 
-Li, X. and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" (*Under Review*).
-
-Rice, W.L, B.D. Taff, P.B. Newman, Z.D. Miller, A.L. D'Antonio, J.T. Baker, C. Monz, J.N. Newton, and K.Y. Zipp "Grand Expectations: Understanding Outcome Interference in Grand Teton National Park." (*Under Review*).
+Rice, W.L, B.D. Taff, P.B. Newman, Z.D. Miller, A.L. D'Antonio, J.T. Baker, C. Monz, J.N. Newton, and K.Y. Zipp "Grand Expectations: Understanding Outcome Interference in Grand Teton National Park." (*Revise and Resubmit*).
 
 Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu "Optimal management to minimize the damages caused by aquatic invasive species." (*Under Review*).
 
+Jiang, W., H. Fu, M. G. Jacobson, K. Y. Zipp, and J. Jin "The Impact of Biomass Crop Assistance Program on the United States Forest Product Market: An Application of Global Forest Product Model" (*Revise and Resubmit*).
+
+Jiang, W., M. Jacobson, A. Kemanian, M. Langholtz, F. Montes, K. Y. Zipp, X. Liang, and J. Jin "A Case Study Defining Economically Marginal Land for Energy Crop Production" (*Under Review*).
+
+
 ### Working Papers
+
+Colby, S. and K.Y. Zipp  "Floodplain Housing Stock Dynamics" (*Under Review*).
 
 Zipp, K.Y. and Y-H. Shr "Feeling the Burn: The Optimal Timing of Prescribed Fires for Recreational Benefits." (*Working Paper*)
 
