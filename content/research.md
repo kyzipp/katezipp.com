@@ -4,7 +4,7 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ## Publications
 
-(Note: * indicates work with a graduate student as part of their research)
+(Note: \* indicates work with a graduate student as part of their research)
 
 ### Published
 
