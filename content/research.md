@@ -8,7 +8,7 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
-Li, X.^* and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" (*Accepted for publication in the Agricultural and Resource Economics Review*).
+Li, X.<sup>*</sup> and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" (*Accepted for publication in the Agricultural and Resource Economics Review*).
 
 Rice, W.L*, B.D. Taff, P.B. Newman, Z.D. Miller, A.L. D'Antonio, J.T. Baker, C. Monz, J.N. Newton, and K.Y. Zipp "Grand Expectations: Understanding Outcome Interference in Grand Teton National Park." *Journal of Park and Recreation Administration* https://doi.org/10.18666/JPRA-2019-9283
 
