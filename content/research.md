@@ -8,7 +8,7 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
-Li, X.<sup>*</sup> and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" (*Accepted for publication in the Agricultural and Resource Economics Review*).
+Li, X.* and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" (*Accepted for publication in the Agricultural and Resource Economics Review*).
 
 Rice, W.L*, B.D. Taff, P.B. Newman, Z.D. Miller, A.L. D'Antonio, J.T. Baker, C. Monz, J.N. Newton, and K.Y. Zipp "Grand Expectations: Understanding Outcome Interference in Grand Teton National Park." *Journal of Park and Recreation Administration* https://doi.org/10.18666/JPRA-2019-9283
 
@@ -20,7 +20,7 @@ Shr, Y-H* and K.Y. Zipp (2019) "The Aftermath of Flood Zone Remapping: The Asymm
 
 Zipp, K.Y., D. J. Lewis, B. Provencher, and M.J. Vander Zanden (2019) "The Spatial Dynamics of the Economic Impacts of an Aquatic Invasive Species: An Empirical Analysis" *Land Economics* 95(1): 1-18. https://doi.org/10.3368/le.95.1.1
 
-Jiang, W., K.Y. Zipp, and M. Jacobson (2018)  "Economic Assessment of Landowners’ Willingness to Supply Energy Crops on Marginal Lands in the Northeastern of the United States." *Biomass and Bioenergy* 113: 22-30. https://doi.org/10.1016/j.biombioe.2018.03.005
+Jiang, W.*, K.Y. Zipp, and M. Jacobson (2018)  "Economic Assessment of Landowners’ Willingness to Supply Energy Crops on Marginal Lands in the Northeastern of the United States." *Biomass and Bioenergy* 113: 22-30. https://doi.org/10.1016/j.biombioe.2018.03.005
 
 Zipp, K.Y., D. J. Lewis, and B. Provencher (2017) "Does the conservation of land reduce development? An econometric-based landscape simulation with land market feedbacks" *Journal of Environmental Economics and Management* 81: 19-37. https://doi.org/10.1016/j.jeem.2016.08.006
 
@@ -36,7 +36,7 @@ Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: 
 
 ### Working Papers
 
-Jiang, W., M. Jacobson, A. Kemanian, M. Langholtz, F. Montes, K. Y. Zipp, X. Liang, and J. Jin "A Case Study Defining Economically Marginal Land for Energy Crop Production" (*Working Paper*).
+Jiang, W.*, M. Jacobson, A. Kemanian, M. Langholtz, F. Montes, K. Y. Zipp, X. Liang, and J. Jin "A Case Study Defining Economically Marginal Land for Energy Crop Production" (*Working Paper*).
 
 Zipp, K.Y. and Y-H. Shr "Feeling the Burn: The Optimal Timing of Prescribed Fires for Recreational Benefits." (*Working Paper*)
 
