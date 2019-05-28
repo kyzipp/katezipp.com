@@ -46,6 +46,8 @@ Zipp, K.Y. "The Net Effects of Open-Space Conservation on Ecosystem Services" (*
 
 ### Awarded
 
+PI "The Study and Simulation of the Mechanisms Driving Species Migration." PSU ICS Seed Grant. $9,952
+
 Co-PI "Advancing High Priority, Objectives, Strategies and Actions Identified in the Pennsylvania Aquatic Invasive Species Management Plan" U.S. Fish and Wildlife Service. $797,949. [Press release] (https://news.psu.edu/story/529390/2018/07/27/impact/pennsylvania-sea-grant-receives-800000-combat-invasive-species).
 
 Co-PI "Flexible Buffer Systems: Enhancing Ecosystem Services and Expanding Agricultural Options in Riparian Areas." USDA National Institute of Food and Agriculture. 01/01/2017 - 12/31/2019 $499,500. [Press release](https://news.psu.edu/story/475297/2017/07/20/research/researchers-receive-usda-grant-study-new-riparian-buffer-strategy).
