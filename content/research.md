@@ -46,7 +46,7 @@ Zipp, K.Y. "The Net Effects of Open-Space Conservation on Ecosystem Services" (*
 
 ### Awarded
 
-PI "The Study and Simulation of the Mechanisms Driving Species Migration." PSU ICS Seed Grant. $9,952
+PI "The Study and Simulation of the Mechanisms Driving Species Migration." PSU ICS Seed Grant. $9,952 [Press release](https://ics.psu.edu/ics-seed-grants-to-power-projects-that-use-ai-machine-learning-for-common-good/).
 
 Co-PI "Advancing High Priority, Objectives, Strategies and Actions Identified in the Pennsylvania Aquatic Invasive Species Management Plan" U.S. Fish and Wildlife Service. $797,949. [Press release] (https://news.psu.edu/story/529390/2018/07/27/impact/pennsylvania-sea-grant-receives-800000-combat-invasive-species).
 
