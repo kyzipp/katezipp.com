@@ -33,6 +33,7 @@ Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu "Optimal management to minimize the d
 
 Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" (*Under Review*).
 
+Rice, W.L*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits: Toward a recreational ecosystem services management framework." (Under Review).
 
 ### Working Papers
 
