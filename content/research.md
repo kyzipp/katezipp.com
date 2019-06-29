@@ -37,6 +37,8 @@ Rice, W.L*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits:
 
 ### Working Papers
 
+Li, X.\*, K.Y. Zipp, J.S. Shortle, F. Jiang, T.L. Veith, M. Royer, R. Brooks, L.T. Zikatanov, and H.E. Gall. "Integrated Assessment Modeling for Design of Riparian Buffer Systems and Incentives for Adoption" (*Working Paper*).
+
 Jiang, W.\*, M. Jacobson, A. Kemanian, M. Langholtz, F. Montes, K. Y. Zipp, X. Liang, and J. Jin "A Case Study Defining Economically Marginal Land for Energy Crop Production" (*Working Paper*).
 
 Zipp, K.Y. and Y-H. Shr "Feeling the Burn: The Optimal Timing of Prescribed Fires for Recreational Benefits." (*Working Paper*)
@@ -46,6 +48,8 @@ Zipp, K.Y. "The Net Effects of Open-Space Conservation on Ecosystem Services" (*
 ## Grants
 
 ### Awarded
+
+Co-PI "Implementing High Priority Objectives, Strategies, and Actions Identified in the Pennsylvania Aquatic Invasive Species Management Plan" U.S. Fish and Wildlife Service. 07/01/2020 - 06/30/2022 $748,456.
 
 PI "The Study and Simulation of the Mechanisms Driving Species Migration." PSU ICS Seed Grant. $9,952 [Press release](https://ics.psu.edu/ics-seed-grants-to-power-projects-that-use-ai-machine-learning-for-common-good/).
 
