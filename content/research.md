@@ -33,17 +33,20 @@ Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu "Optimal management to minimize the d
 
 Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" (*Under Review*).
 
-Rice, W.L*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits: Toward a recreational ecosystem services management framework." (Under Review).
+Rice, W.L*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits: Toward a recreational ecosystem services management framework." (*Under Review*).
+
+Li, X.\*, K.Y. Zipp, J.S. Shortle, F. Jiang, T.L. Veith, and H.E. Gall. "Integrated Assessment Modeling for Design of Riparian Buffer Systems and Incentives for Adoption" (*Under Review*).
+
+Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., Newton, J. N.,  & D’Antonio, A. "Connecting motivations to outcomes: A study of park visitors’ outcome attainment." (*Under Review*).
 
 ### Working Papers
 
-Li, X.\*, K.Y. Zipp, J.S. Shortle, F. Jiang, T.L. Veith, M. Royer, R. Brooks, L.T. Zikatanov, and H.E. Gall. "Integrated Assessment Modeling for Design of Riparian Buffer Systems and Incentives for Adoption" (*Working Paper*).
 
 Jiang, W.\*, M. Jacobson, A. Kemanian, M. Langholtz, F. Montes, K. Y. Zipp, X. Liang, and J. Jin "A Case Study Defining Economically Marginal Land for Energy Crop Production" (*Working Paper*).
 
 Zipp, K.Y. and Y-H. Shr "Feeling the Burn: The Optimal Timing of Prescribed Fires for Recreational Benefits." (*Working Paper*)
 
-Zipp, K.Y. "The Net Effects of Open-Space Conservation on Ecosystem Services" (*Working Paper*)
+Zipp, K.Y. and Jiang W. "The Net Effects of Open-Space Conservation on Ecosystem Services" (*Working Paper*)
 
 ## Grants
 
