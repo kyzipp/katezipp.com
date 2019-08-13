@@ -8,13 +8,13 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
-Li, X.\* and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" (*Accepted for publication in the Agricultural and Resource Economics Review*). http://dx.doi.org/10.1017/age.2019.3
+Li, X.\* and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" *Agricultural and Resource Economics Review*. http://dx.doi.org/10.1017/age.2019.3
 
 Rice, W.L\*, B.D. Taff, P.B. Newman, Z.D. Miller, A.L. D'Antonio, J.T. Baker, C. Monz, J.N. Newton, and K.Y. Zipp (2019) "Grand Expectations: Understanding Visitor Motivations and Outcome Interference in Grand Teton National Park, Wyoming." *Journal of Park and Recreation Administration*  37(2): 26-44 https://doi.org/10.18666/JPRA-2019-9283
 
-Jiang, W.\*, H. Fu, M. G. Jacobson, K. Y. Zipp, and J. Jin (2019) "The Impact of Biomass Crop Assistance Program on the United States Forest Product Market: An Application of Global Forest Product Model" *Forests* 10(3): 215-227. https://doi.org/10.3390/f10030215
+Jiang, W.\*, K.Y. Zipp, M. Langholtz, and M. Jacobson (2019) "Modeling Spatial Dependence and Hot Spots in Landowners’ Willingness to Supply Bioenergy Crops in Northeast of the United States." *Global Change Biology (GCB) Bioenergy* 11(9): 1086-1097. https://doi.org/10.1111/gcbb.12617
 
-Jiang, W.\*, K.Y. Zipp, M. Langholtz, and M. Jacobson (2019) "Modeling Spatial Dependence and Hot Spots in Landowners’ Willingness to Supply Bioenergy Crops in Northeast of the United States." *Global Change Biology (GCB) Bioenergy* 00: 1–12. https://doi.org/10.1111/gcbb.12617
+Jiang, W.\*, H. Fu, M. G. Jacobson, K. Y. Zipp, and J. Jin (2019) "The Impact of Biomass Crop Assistance Program on the United States Forest Product Market: An Application of Global Forest Product Model" *Forests* 10(3): 215-227. https://doi.org/10.3390/f10030215
 
 Shr, Y-H\* and K.Y. Zipp (2019) "The Aftermath of Flood Zone Remapping: The Asymmetric Impact of Flood Maps on Housing Prices" *Land Economics* 95(2): 174-192. https://doi.org/10.3368/le.95.2.174
 
@@ -41,12 +41,11 @@ Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., New
 
 ### Working Papers
 
-
-Jiang, W.\*, M. Jacobson, A. Kemanian, M. Langholtz, F. Montes, K. Y. Zipp, X. Liang, and J. Jin "A Case Study Defining Economically Marginal Land for Energy Crop Production" (*Working Paper*).
-
 Zipp, K.Y. and Y-H. Shr "Feeling the Burn: The Optimal Timing of Prescribed Fires for Recreational Benefits." (*Working Paper*)
 
 Zipp, K.Y. and Jiang W. "The Net Effects of Open-Space Conservation on Ecosystem Services" (*Working Paper*)
+
+Jiang, W.\*, M. Jacobson, A. Kemanian, M. Langholtz, F. Montes, K. Y. Zipp, X. Liang, and J. Jin "A Case Study Defining Economically Marginal Land for Energy Crop Production" (*Working Paper*).
 
 ## Grants
 
