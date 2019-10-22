@@ -8,7 +8,9 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
-Li, X.\* and K.Y. Zipp "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" *Agricultural and Resource Economics Review*. http://dx.doi.org/10.1017/age.2019.3
+Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu "Optimal management to minimize the damages caused by aquatic invasive species." Accepted for publication in *Letters in Spatial and Resource Sciences*. https://arxiv.org/abs/1809.05621
+
+Li, X.\* and K.Y. Zipp (2019) "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" *Agricultural and Resource Economics Review* 28(2): 328-358 http://dx.doi.org/10.1017/age.2019.3
 
 Rice, W.L\*, B.D. Taff, P.B. Newman, Z.D. Miller, A.L. D'Antonio, J.T. Baker, C. Monz, J.N. Newton, and K.Y. Zipp (2019) "Grand Expectations: Understanding Visitor Motivations and Outcome Interference in Grand Teton National Park, Wyoming." *Journal of Park and Recreation Administration*  37(2): 26-44 https://doi.org/10.18666/JPRA-2019-9283
 
@@ -28,16 +30,13 @@ Shortle, J., D. Abler, Z. Kaufman, and K.Y. Zipp (2016) "Simple vs. Complex: Imp
 
 ### Under Review
 
+Rice, W.L*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits: Toward a recreational ecosystem services management framework." (*Resubmitted after revisions*).
 
-Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu "Optimal management to minimize the damages caused by aquatic invasive species." (*Revise and Resubmit*). https://arxiv.org/abs/1809.05621
+Li, X.\*, K.Y. Zipp, J.S. Shortle, F. Jiang, T.L. Veith, and H.E. Gall. "Integrated Assessment Modeling for Design of Riparian Buffer Systems and Incentives for Adoption" (*Revise and Resubmit*).
+
+Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., Newton, J. N.,  & D’Antonio, A. "Connecting motivations to outcomes: A study of park visitors’ outcome attainment." (*Revise and Resubmit*).
 
 Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" (*Under Review*).
-
-Rice, W.L*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits: Toward a recreational ecosystem services management framework." (*Under Review*).
-
-Li, X.\*, K.Y. Zipp, J.S. Shortle, F. Jiang, T.L. Veith, and H.E. Gall. "Integrated Assessment Modeling for Design of Riparian Buffer Systems and Incentives for Adoption" (*Under Review*).
-
-Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., Newton, J. N.,  & D’Antonio, A. "Connecting motivations to outcomes: A study of park visitors’ outcome attainment." (*Under Review*).
 
 ### Working Papers
 
