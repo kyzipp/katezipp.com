@@ -8,9 +8,9 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
-Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., Newton, J. N.,  & D’Antonio, A. "Connecting motivations to outcomes: A study of park visitors’ outcome attainment." (Accepted for publication in *Journal of Outdoor Recreation and Tourism*).
+Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., Newton, J. N.,  & D’Antonio, A. (2020) "Connecting motivations to outcomes: A study of park visitors’ outcome attainment." *Journal of Outdoor Recreation and Tourism* 29: xx-xx https://doi.org/10.1016/j.jort.2019.100272
 
-Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu "Optimal management to minimize the damages caused by aquatic invasive species." Accepted for publication in *Letters in Spatial and Resource Sciences*. https://arxiv.org/abs/1809.05621
+Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu (2019) "Optimal management to minimize the damages caused by aquatic invasive species." *Letters in Spatial and Resource Sciences* https://doi.org/10.1007/s12076-019-00237-x
 
 Li, X.\* and K.Y. Zipp (2019) "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" *Agricultural and Resource Economics Review* 28(2): 328-358 http://dx.doi.org/10.1017/age.2019.3
 
