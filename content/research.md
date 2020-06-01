@@ -8,6 +8,8 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
+Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" Accepted for publication in *Climate Change Economics*.
+
 Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., Newton, J. N.,  & D’Antonio, A. (2020) "Connecting motivations to outcomes: A study of park visitors’ outcome attainment." *Journal of Outdoor Recreation and Tourism* 29: xx-xx https://doi.org/10.1016/j.jort.2019.100272
 
 Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu (2019) "Optimal management to minimize the damages caused by aquatic invasive species." *Letters in Spatial and Resource Sciences* https://doi.org/10.1007/s12076-019-00237-x
@@ -36,7 +38,6 @@ Rice, W.L*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits:
 
 Li, X.\*, K.Y. Zipp, J.S. Shortle, F. Jiang, T.L. Veith, and H.E. Gall. "Integrated Assessment Modeling for Design of Riparian Buffer Systems and Incentives for Adoption" (*Revise and Resubmit*).
 
-Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" (*Under Review*).
 
 ### Working Papers
 
