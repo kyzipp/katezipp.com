@@ -8,7 +8,12 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
-Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" Accepted for publication in *Climate Change Economics*.
+Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" Accepted for publication in *Climate Change Economics* https://doi.org/10.1142/S2010007820500128.
+
+Rice, W.L\*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits: Toward a recreational ecosystem services management framework." (Ac-
+cepted for publication in *Landscape Research*).
+
+Miller, Z. D., H. Wu, K. Zipp, C. L. Dems, E. Smithwick, M. Kaye, P. Newman, A. Zhao, and A. Taylor. (2020) "Hunter and Non-Hunter Percpetions of Costs, Benefits, and Likelihood of Outcomes of Prescribed Fire in the Mid-Atlantic Region." *Society & Natural Resources* https://doi.org/10.1080/08941920.2020.1780359.
 
 Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., Newton, J. N.,  & D’Antonio, A. (2020) "Connecting motivations to outcomes: A study of park visitors’ outcome attainment." *Journal of Outdoor Recreation and Tourism* 29: xx-xx https://doi.org/10.1016/j.jort.2019.100272
 
@@ -34,18 +39,14 @@ Shortle, J., D. Abler, Z. Kaufman, and K.Y. Zipp (2016) "Simple vs. Complex: Imp
 
 ### Under Review
 
-Rice, W.L*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits: Toward a recreational ecosystem services management framework." (*Resubmitted after revisions*).
 
-Li, X.\*, K.Y. Zipp, J.S. Shortle, F. Jiang, T.L. Veith, and H.E. Gall. "Integrated Assessment Modeling for Design of Riparian Buffer Systems and Incentives for Adoption" (*Revise and Resubmit*).
+K.Y. Zipp, Li, X.\*, J.S. Shortle, F. Jiang, T.L. Veith, and H.E. Gall. "Integrated Assessment Modeling for Design of Riparian Buffer Systems and Incentives for Adoption" (*Revise and Resubmit*).
 
 
 ### Working Papers
 
 Zipp, K.Y. and Y-H. Shr "Feeling the Burn: The Optimal Timing of Prescribed Fires for Recreational Benefits." (*Working Paper*)
 
-Zipp, K.Y. and Jiang W. "The Net Effects of Open-Space Conservation on Ecosystem Services" (*Working Paper*)
-
-Jiang, W.\*, M. Jacobson, A. Kemanian, M. Langholtz, F. Montes, K. Y. Zipp, X. Liang, and J. Jin "A Case Study Defining Economically Marginal Land for Energy Crop Production" (*Working Paper*).
 
 ## Grants
 
