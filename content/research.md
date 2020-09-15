@@ -8,16 +8,15 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
-Colby, S. and K.Y. Zipp  "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" Accepted for publication in *Climate Change Economics* https://doi.org/10.1142/S2010007820500128.
+Colby, S. and K.Y. Zipp. (2020) "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" *Climate Change Economics* https://doi.org/10.1142/S2010007820500128.
 
-Rice, W.L\*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp "Beyond benefits: Toward a recreational ecosystem services management framework." (Ac-
-cepted for publication in *Landscape Research*).
+Rice, W.L\*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp. (2020) "Beyond benefits: Toward a recreational ecosystem services management framework." *Landscape Research* 1-13. https://doi.org/10.1080/01426397.2020.1777956
 
 Miller, Z. D., H. Wu, K. Zipp, C. L. Dems, E. Smithwick, M. Kaye, P. Newman, A. Zhao, and A. Taylor. (2020) "Hunter and Non-Hunter Percpetions of Costs, Benefits, and Likelihood of Outcomes of Prescribed Fire in the Mid-Atlantic Region." *Society & Natural Resources* https://doi.org/10.1080/08941920.2020.1780359.
 
 Rice, W. L.\*, Taff, B. D., Miller, Z. D., Newman, P., Zipp, K. Y., Pan, B., Newton, J. N.,  & D’Antonio, A. (2020) "Connecting motivations to outcomes: A study of park visitors’ outcome attainment." *Journal of Outdoor Recreation and Tourism* 29: xx-xx https://doi.org/10.1016/j.jort.2019.100272
 
-Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu (2019) "Optimal management to minimize the damages caused by aquatic invasive species." *Letters in Spatial and Resource Sciences* https://doi.org/10.1007/s12076-019-00237-x
+Zipp, K.Y., L. Zikatanov, Y. Wu, and K. Wu (2019) "Optimal management to minimize the damages caused by aquatic invasive species." *Letters in Spatial and Resource Sciences* 12: 199–213 https://doi.org/10.1007/s12076-019-00237-x
 
 Li, X.\* and K.Y. Zipp (2019) "Dynamics and Uncertainty in Land-Use Conversion for Perennial Energy Crop Production: Exploring Effects of Payments for Ecosystem Services Policies" *Agricultural and Resource Economics Review* 28(2): 328-358 http://dx.doi.org/10.1017/age.2019.3
 
