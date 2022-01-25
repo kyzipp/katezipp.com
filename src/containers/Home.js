@@ -15,7 +15,7 @@ export default withRouteData(({ about, vitae, research, teaching }) => (
           <p>Katherine Y. Zipp<br />
           Penn State University <br />
           <a target="_blank" href="https://aese.psu.edu/directory/kyz1" title="Penn State">AESE</a> and <a target="_blank" href="http://www.iee.psu.edu" title="Penn State IEE">IEE</a><br />
-          112-F Armsby<br />
+          116 Ferguson <br />
           University Park, PA 16802<br />
           kyz1@psu.edu</p>
         </div>
