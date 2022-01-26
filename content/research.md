@@ -8,7 +8,7 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
-Rice, W. L., Newman, P., Zipp, K. Y., Taff, B. D., Pipkin, A. R., Miller, Z. D., & Pan, B. (2022). Balancing quietness and freedom: Support for reducing road noise among park visitors. *Journal of Outdoor Recreation and Tourism*, 37, 100474. https://doi.org/10.1016/j.jort.2021.100474
+Rice, W. L.\*, Newman, P., Zipp, K. Y., Taff, B. D., Pipkin, A. R., Miller, Z. D., & Pan, B. (2022). Balancing quietness and freedom: Support for reducing road noise among park visitors. *Journal of Outdoor Recreation and Tourism*, 37, 100474. https://doi.org/10.1016/j.jort.2021.100474
 
 Khanna, M., Chen, L., Basso, B., Cai, X., Field, J. L., Guan, K., ... & Zipp, K. Y. (2021). Redefining marginal land for bioenergy crop production. *GCB Bioenergy*, 13(10), 1590-1609. https://doi.org/10.1111/gcbb.12877
 
