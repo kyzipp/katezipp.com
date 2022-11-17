@@ -14,7 +14,7 @@ Rice, W. L.\*, Newman, P., Zipp, K. Y., Taff, B. D., Pipkin, A. R., Miller, Z. D
 
 Khanna, M., Chen, L., Basso, B., Cai, X., Field, J. L., Guan, K., ... & Zipp, K. Y. (2021). Redefining marginal land for bioenergy crop production. *GCB Bioenergy*, 13(10), 1590-1609. https://doi.org/10.1111/gcbb.12877
 
-Colby, S. and K.Y. Zipp. (2020) "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" *Climate Change Economics* https://doi.org/10.1142/S2010007820500128.
+Colby, S. and K.Y. Zipp. (2020) "Excess Vulnerability from Subsidized Flood Insurance: Housing Market Adaptation When Premiums Equal Expected Flood Damage" *Climate Change Economics* https://doi.org/10.1142/S2010007820500128
 
 Rice, W.L\*, P.B. Newman, B.D. Taff, Z.D. Miller, and K.Y. Zipp. (2020) "Beyond benefits: Toward a recreational ecosystem services management framework." *Landscape Research* 1-13. https://doi.org/10.1080/01426397.2020.1777956
 
