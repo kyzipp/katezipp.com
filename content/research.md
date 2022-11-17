@@ -8,6 +8,8 @@ The spatial configuration of land cover/land use is of fundamental importance to
 
 ### Published
 
+Wu, H., Miller, Z.D., Wang, R., Zipp, K.Y., Newman, P., Shr, Y.H., Dems, C.L., Taylor, A., Kaye, M.W. and Smithwick, E.A. (2022) Public and manager perceptions about prescribed fire in the Mid-Atlantic, United States. *Journal of environmental management*, 322, p.116100. https://doi.org/10.1016/j.jenvman.2022.116100
+
 Rice, W. L.\*, Newman, P., Zipp, K. Y., Taff, B. D., Pipkin, A. R., Miller, Z. D., & Pan, B. (2022). Balancing quietness and freedom: Support for reducing road noise among park visitors. *Journal of Outdoor Recreation and Tourism*, 37, 100474. https://doi.org/10.1016/j.jort.2021.100474
 
 Khanna, M., Chen, L., Basso, B., Cai, X., Field, J. L., Guan, K., ... & Zipp, K. Y. (2021). Redefining marginal land for bioenergy crop production. *GCB Bioenergy*, 13(10), 1590-1609. https://doi.org/10.1111/gcbb.12877
