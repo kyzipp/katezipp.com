@@ -15,7 +15,7 @@ jobs:
       - name: install aws cli
         run: sudo apt-get -y -qq install awscli
       - name: Deploy to S3
-        run: ws s3 sync dist s3://katezipp.com --delete
+        run: aws s3 sync dist s3://katezipp.com --delete
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
