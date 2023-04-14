@@ -5,15 +5,13 @@ on: push
 jobs:
   build:
     name: Build and Deploy
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: Install site
         run: yarn install
       - name: build site
         run: yarn build
-      - name: install aws cli
-        run: sudo apt-get -y -qq install awscli
       - name: Deploy to S3
         run: aws s3 sync dist s3://katezipp.com --delete
         env:
